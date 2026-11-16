@@ -1,0 +1,6 @@
+{
+  "name": "Vidu AI",
+  "description": "High-contrast terminal AI workspace created by Vidusha Nawood for prompt engineering, code synthesis, and research.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
